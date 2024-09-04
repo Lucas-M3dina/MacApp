@@ -1,0 +1,35 @@
+﻿@page "/"
+
+    <div class=" p-0 d-flex align-items-center justify-content-center gap-3 my-4">
+        <i class="bi bi-houses fs-1" ></i>
+        <span class="fs-4 fw-bold">Informações do Contrato</span>
+        <i class="bi bi-houses fs-1" ></i>
+    </div>
+@foreach (Entities.Response.ContratoResponse contrato in contratos)
+{
+    <div class="row bg-white my-4  rounded-2">
+
+        <div class="col-12">
+            <div class="row py-2">
+                <p class="col-6 cinza-claro ">Empreendimento:</p>
+                <p class="col-6 text-end text-nowrap">@contrato.Empreendimento</p>
+            </div>
+            <div class="row border-top py-2">
+                <p class="col-6 cinza-claro ">Bloco:</p>
+                <p class="col-6 text-end text-nowrap">@contrato.Bloco</p>
+            </div>
+            <div class="row border-top py-2">
+                <p class="col-6 cinza-claro ">Unidade:</p>
+                <p class="col-6 text-end text-nowrap"> @contrato.Unidade</p>
+            </div>
+            <div class="row border-top py-2">
+                <p class="col-6 cinza-claro ">Contrato:</p>
+                <p class="col-6 text-end text-nowrap"> @contrato.Contrato</p>
+            </div>
+            <div class="row border-top py-2">
+                <p class="col-6 cinza-claro ">Data Venda:</p>
+                <p class="col-6 text-end text-nowrap">@contrato.DataVenda.ToString("dd/MM/yyyy")</p>
+            </div>
+        </div>
+    </div>
+}

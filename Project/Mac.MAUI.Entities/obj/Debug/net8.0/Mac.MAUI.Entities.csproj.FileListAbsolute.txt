@@ -1,0 +1,11 @@
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\bin\Debug\net8.0\Mac.MAUI.Entities.deps.json
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\bin\Debug\net8.0\Mac.MAUI.Entities.dll
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\bin\Debug\net8.0\Mac.MAUI.Entities.pdb
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\Mac.MAUI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\Mac.MAUI.Entities.AssemblyInfoInputs.cache
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\Mac.MAUI.Entities.AssemblyInfo.cs
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\Mac.MAUI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\Mac.MAUI.Entities.dll
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\refint\Mac.MAUI.Entities.dll
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\Mac.MAUI.Entities.pdb
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Entities\obj\Debug\net8.0\ref\Mac.MAUI.Entities.dll

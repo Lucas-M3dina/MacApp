@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\medina\\Desktop\\Github\\MAUI\\Project\\Mac.MAUI.App\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\Mac.MAUI.App.styles.css",
+      "PackagePath": "staticwebassets\\Mac.MAUI.App.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\medina\\Desktop\\Github\\MAUI\\Project\\Mac.MAUI.App\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\medina\\Desktop\\Github\\MAUI\\Project\\Mac.MAUI.App\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\medina\\Desktop\\Github\\MAUI\\Project\\Mac.MAUI.App\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\medina\\Desktop\\Github\\MAUI\\Project\\Mac.MAUI.App\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\medina\\Desktop\\Github\\MAUI\\Project\\Mac.MAUI.App\\wwwroot\\imagens\\logo.png",
+      "PackagePath": "staticwebassets\\imagens\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\medina\\Desktop\\Github\\MAUI\\Project\\Mac.MAUI.App\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.Mac.MAUI.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.Mac.MAUI.App.props",
+      "PackagePath": "build\\Mac.MAUI.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.Mac.MAUI.App.props",
+      "PackagePath": "buildMultiTargeting\\Mac.MAUI.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.Mac.MAUI.App.props",
+      "PackagePath": "buildTransitive\\Mac.MAUI.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

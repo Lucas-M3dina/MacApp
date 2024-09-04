@@ -1,0 +1,14 @@
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\bin\Debug\net8.0\Mac.MAUI.Data.deps.json
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\bin\Debug\net8.0\Mac.MAUI.Data.runtimeconfig.json
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\bin\Debug\net8.0\Mac.MAUI.Data.dll
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\bin\Debug\net8.0\Mac.MAUI.Data.pdb
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.csproj.AssemblyReference.cache
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.AssemblyInfoInputs.cache
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.AssemblyInfo.cs
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.csproj.CoreCompileInputs.cache
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.dll
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\refint\Mac.MAUI.Data.dll
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.pdb
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\Mac.MAUI.Data.genruntimeconfig.cache
+C:\Users\medina\Desktop\Github\MAUI\Project\Mac.MAUI.Data\obj\Debug\net8.0\ref\Mac.MAUI.Data.dll
